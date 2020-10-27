@@ -7,7 +7,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/newrelic/newrelic-client-go/internal/logging"
+	"github.com/joeyparsons/newrelic-client-go/internal/logging"
 	"github.com/newrelic/newrelic-client-go/pkg/accounts"
 	"github.com/newrelic/newrelic-client-go/pkg/alerts"
 	"github.com/newrelic/newrelic-client-go/pkg/apiaccess"
