@@ -3,7 +3,7 @@ package alerts
 type AlertViolationEntity struct {
 	Product string `json:"product"`
 	Type    string `json:"type"`
-	GroupId string `json:"group_id"`
+	GroupId int    `json:"group_id"`
 	ID      int    `json:"id"`
 	Name    string `json:"name"`
 }
