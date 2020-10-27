@@ -20,8 +20,6 @@ type AlertViolation struct {
 	Entity        AlertViolationEntity `json:"entity"`
 }
 
-// ListAlertEventsParams represents a set of filters to be used
-// when querying New Relic alert events
 type ListAlertViolationsParams struct {
 	Page int `url:"page,omitempty"`
 }
@@ -49,5 +47,5 @@ func (a *Alerts) ListAlertViolations(params *ListAlertViolationsParams) ([]*Aler
 }
 
 type alertViolationsResponse struct {
-	AlertViolations []*AlertViolation `json:"violation,omitempty"`
+	AlertViolations []*AlertViolation `json:"violations,omitempty"`
 }
