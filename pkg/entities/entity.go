@@ -1,7 +1,7 @@
 package entities
 
 import (
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // Entity represents a New Relic One entity.

@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/joeyparsons/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // AlertsNrqlConditionExpiration - **Preview access:** These fields may be viewed and set, but will not be active until the release date.

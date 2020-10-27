@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/newrelic/newrelic-client-go/internal/serialization"
+	"github.com/joeyparsons/newrelic-client-go/internal/serialization"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // MultiLocationSyntheticsCondition represents a location-based failure condition.

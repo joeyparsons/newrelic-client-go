@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
 )
 
 func Example_log(t *testing.T) {

@@ -11,9 +11,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
-	mock "github.com/newrelic/newrelic-client-go/pkg/testhelpers"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
+	mock "github.com/joeyparsons/newrelic-client-go/pkg/testhelpers"
 )
 
 const (

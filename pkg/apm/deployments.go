@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/newrelic/newrelic-client-go/internal/http"
+	"github.com/joeyparsons/newrelic-client-go/internal/http"
 )
 
 // Deployment represents information about a New Relic application deployment.

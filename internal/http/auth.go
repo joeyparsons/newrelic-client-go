@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
 )
 
 // RequestAuthorizer is an interface that allows customizatino of how a request is authorized.
