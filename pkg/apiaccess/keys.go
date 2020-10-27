@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/internal/http"
+	"github.com/joeyparsons/newrelic-client-go/internal/http"
 )
 
 type APIKey struct {

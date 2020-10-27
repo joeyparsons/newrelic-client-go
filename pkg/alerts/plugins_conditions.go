@@ -3,7 +3,7 @@ package alerts
 import (
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // PluginsCondition represents an alert condition for New Relic Plugins.

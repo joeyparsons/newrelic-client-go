@@ -2,7 +2,7 @@
 package cloud
 
 import (
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // Create or modify a cloud integration.

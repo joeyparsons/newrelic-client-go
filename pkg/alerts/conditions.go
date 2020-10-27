@@ -3,7 +3,7 @@ package alerts
 import (
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // ConditionType specifies the condition type used when creating the alert condition.

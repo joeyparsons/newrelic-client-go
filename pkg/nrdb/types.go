@@ -2,7 +2,7 @@
 package nrdb
 
 import (
-	"github.com/newrelic/newrelic-client-go/internal/serialization"
+	"github.com/joeyparsons/newrelic-client-go/internal/serialization"
 )
 
 // EventAttributeDefinition - A human-readable definition of an NRDB Event Type Attribute

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/internal/serialization"
+	"github.com/joeyparsons/newrelic-client-go/internal/serialization"
 )
 
 // Actor - The `Actor` object contains fields that are scoped to the API user's access level.

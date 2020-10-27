@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	nr "github.com/newrelic/newrelic-client-go/pkg/testhelpers"
+	nr "github.com/joeyparsons/newrelic-client-go/pkg/testhelpers"
 )
 
 func TestIntegrationListInfrastructureConditions(t *testing.T) {

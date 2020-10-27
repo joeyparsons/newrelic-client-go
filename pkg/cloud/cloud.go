@@ -1,9 +1,9 @@
 package cloud
 
 import (
-	"github.com/newrelic/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/internal/logging"
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/internal/http"
+	"github.com/joeyparsons/newrelic-client-go/internal/logging"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
 )
 
 type Cloud struct {

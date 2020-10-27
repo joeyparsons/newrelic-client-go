@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
-	nr "github.com/newrelic/newrelic-client-go/pkg/testhelpers"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
+	nr "github.com/joeyparsons/newrelic-client-go/pkg/testhelpers"
 )
 
 func Example_basic() {

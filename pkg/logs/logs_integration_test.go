@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	nr "github.com/newrelic/newrelic-client-go/pkg/testhelpers"
+	nr "github.com/joeyparsons/newrelic-client-go/pkg/testhelpers"
 )
 
 type testDatum struct {

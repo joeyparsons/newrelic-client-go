@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
 )
 
 const (

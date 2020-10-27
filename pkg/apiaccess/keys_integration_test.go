@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/newrelic/newrelic-client-go/pkg/testhelpers"
+	"github.com/joeyparsons/newrelic-client-go/pkg/testhelpers"
 )
 
 func TestIntegrationAPIAccess_IngestKeys(t *testing.T) {

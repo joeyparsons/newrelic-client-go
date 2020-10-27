@@ -9,7 +9,7 @@ import (
 
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/joeyparsons/newrelic-client-go/pkg/config"
 )
 
 type AccountScopedDoc struct {

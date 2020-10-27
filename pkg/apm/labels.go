@@ -1,7 +1,7 @@
 package apm
 
 import (
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/joeyparsons/newrelic-client-go/pkg/errors"
 )
 
 // Label represents a New Relic label.
