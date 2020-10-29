@@ -1,6 +1,6 @@
 module github.com/joeyparsons/newrelic-client-go
 
-go 1.15
+go 1.13
 
 require (
 	github.com/client9/misspell v0.3.4
@@ -12,7 +12,6 @@ require (
 	github.com/imdario/mergo v0.3.11
 	github.com/llorllale/go-gitlint v0.0.0-20200802191503-5984945d4b80
 	github.com/mitchellh/mapstructure v1.3.3
-	github.com/newrelic/newrelic-client-go v0.47.1
 	github.com/newrelic/tutone v0.2.5
 	github.com/psampaz/go-mod-outdated v0.7.0
 	github.com/sirupsen/logrus v1.7.0
